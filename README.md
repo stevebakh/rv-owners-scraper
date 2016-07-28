@@ -1,0 +1,2 @@
+# RV aircraft owners (in the UK)
+Just a simple tool to scrape a list of RV aircraft owners from the UK, obtaining more information from the CAA ginfo tool, and applying filters to reduce the set based on custom criteria (age, number of hours, etc). The data is then used to generate letters to be used in a mailshot. This was done on behalf of my group when we were considering expanding in size and purchasing a second RV. The initial piece of code created CSV output, but was modified to generate the letters directly.
